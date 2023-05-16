@@ -1,0 +1,9 @@
+.resume-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.resume-container img{
+   width: 60%;
+    margin: 20px 0;
+}
